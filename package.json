@@ -1,0 +1,27 @@
+{
+  "name": "verdant-and-co",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.26",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "description": "Verdant & Co. \u2014 architectural HVAC marketing site (React, Three.js, GSAP)"
+}
